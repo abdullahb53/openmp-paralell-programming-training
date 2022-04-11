@@ -1,0 +1,1 @@
+"# openmp-paralell-programming-training" 
